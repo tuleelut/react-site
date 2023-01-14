@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -18,6 +18,11 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <p>
+        Successfully Deployed <code>A React application</code> to Netlify with
+        CircleCI
+      </p>
     </div>
   );
 }
