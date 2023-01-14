@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Successfully Deployed <code>A React application</code> to Netlify with
+          Successfully Deployed!!! <code>A React application</code> to Netlify with
           CircleCI
         </a>
       </header>
