@@ -17,12 +17,11 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          Successfully Deployed <code>A React application</code> to Netlify with
+          CircleCI
+        </p>
       </header>
-
-      <p>
-        Successfully Deployed <code>A React application</code> to Netlify with
-        CircleCI
-      </p>
     </div>
   );
 }
